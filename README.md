@@ -1,5 +1,14 @@
-# Machine-Learning-Scientist
- Qualifications as a Machine Learning Scientist
+# Qualifications as a Machine Learning Scientist
+
+In my pursuit of becoming a `Machine Learning Scientist`( [Machine Learning Scientist with Python](https://github.com/Katsuvest/Machine-Learning-Scientist/tree/master/Machine_Learning_Scientist_with_Python(new).pdf) and [Machine Learning Scientist with R](https://github.com/Katsuvest/Machine-Learning-Scientist/tree/master/Machine_Learning_Scientist_with_R.pdf)), I developed a broad skill set in machine learning frameworks, including `TensorFlow` and `PyTorch`, enabling me to implement cutting-edge models for various tasks. My expertise extends to `regression models`, where I excel in building accurate predictive models for diverse datasets. Additionally, I am adept at creating `linear classifiers`, employing techniques such as `support vector machines` for effective `classification` tasks.
+
+In `Bayesian data analysis`, I have a strong foundation, utilizing frameworks like `PyStan`. My proficiency in `tree-based models`, including `XGBoost`, allows me to leverage `ensemble` methods for enhanced predictive performance. I am well-versed in `deep learning` techniques, demonstrating competence in `image processing` and `natural language processing` tasks.
+
+The `preprocessing` stage is a crucial aspect of my skill set, encompassing `data transformation` and `feature engineering` to optimize model performance. I excel in `model validation`, employing robust techniques to ensure the reliability and generalizability of `machine learning models`. `Hyperparameter tuning` is another area of expertise, where I fine-tune model parameters for optimal performance.
+
+My capabilities extend to both `supervised` and `unsupervised` learning paradigms. In `supervised learning`, I can develop models that learn from labeled data, while in `unsupervised learning`, I am skilled in extracting meaningful patterns from unlabeled datasets. Overall, my proficiency in these key areas positions me as a well-rounded machine learning practitioner capable of addressing diverse challenges in the field.
+
+Here's a summary of my completed courses:
 
 ## Statements of Accomplishment
 |                                                                           Career Tracks                                                                            | Completed  |
