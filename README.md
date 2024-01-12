@@ -8,6 +8,8 @@ The `preprocessing` stage is a crucial aspect of my skill set, encompassing `dat
 
 My capabilities extend to both `supervised` and `unsupervised` learning paradigms. In `supervised learning`, I can develop models that learn from labeled data, while in `unsupervised learning`, I am skilled in extracting meaningful patterns from unlabeled datasets. Overall, my proficiency in these key areas positions me as a well-rounded machine learning practitioner capable of addressing diverse challenges in the field.
 
+The culmination of my coursework was mastering the art of designing models to succeed in **[Kaggle](https://github.com/Katsuvest/Machine_Learning/tree/master/Winning_a_Kaggle_Competition_in_Python)** Competitions. This achievement represents the pinnacle of my expertise, showcasing my ability to create highly effective and competitive machine learning models.
+
 Here's a summary of my completed courses:
 
 ('[Advanced Deep Learning with Keras](https://github.com/Katsuvest/Artificial-Intelligence/tree/master/Advanced_Deep_Learning_with_Keras)'  ,' 26-Jul-2023', '[Artificial-Intelligence](https://github.com/Katsuvest/Artificial-Intelligence/tree/master/)' ,' [Python](https://github.com/Katsuvest/Python)' ),
